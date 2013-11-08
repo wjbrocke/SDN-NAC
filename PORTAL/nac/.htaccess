@@ -1,0 +1,4 @@
+AuthUserFile /var/www/html/nac/.htpasswd
+AuthName Network-Admission-Control
+AuthType Basic
+require valid-user
